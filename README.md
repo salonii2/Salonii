@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saloniiee22&label=Profile%20views&color=0e75b6&style=flat" alt="saloniiee22" /> </p>
+<p align="left"> <img src="C:\Users\SALONI SHARMA\Downloads\good pic.jpg" alt="saloniiee22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saloniiee22" alt="saloniiee22" /></a> </p>
 
