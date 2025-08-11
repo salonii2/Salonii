@@ -1,11 +1,17 @@
+GITHUBB
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="C:\Users\SALONI SHARMA\Downloads\good pic.jpg" /> </p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saloniiee22&label=Profile%20views&color=0e75b6&style=flat" alt="saloniiee22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saloniiee22" alt="saloniiee22" /></a> </p>
 
-- 🔭 I’m currently working on **SolarGuard-X – Real-time CME Detection**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **SolarGuard-X – Real-time CME Detection ISRO Project**
 
 - 🌱 I’m currently learning **Deep Learning, MLOps, and Data Visualization Frameworks**
 
