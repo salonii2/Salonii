@@ -1,4 +1,4 @@
-![logo](https://github.com/salonii2/Salonii2/blob/main/Screenshot%202025-08-11%20234340.png)
+![logo](https://github.com/salonii2/Salonii2/blob/main/Screenshot%202025-08-11%20234340.png?raw=true)
 
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
