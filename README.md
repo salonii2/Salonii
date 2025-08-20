@@ -1,7 +1,7 @@
 ![logo](https://github.com/salonii2/Salonii2/blob/main/Screenshot%202025-08-11%20234340.png?raw=true)
 
 <h1 align="center">Hey👋, I'm Saloni Sharma</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
